@@ -1,0 +1,5 @@
+FLASK_ENV=development
+OAUTHLIB_INSECURE_TRANSPORT=1
+SECRET_KEY=longKey
+
+GOOGLE_CLIENT_ID=client google id
